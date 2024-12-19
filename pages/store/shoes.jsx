@@ -1,4 +1,3 @@
-// pages/store/shoes.js
 import React from 'react';
 
 const Shoes = () => {
